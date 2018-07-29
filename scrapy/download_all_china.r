@@ -11,6 +11,11 @@ time2=gsub(" ","_",time1)
 link1=getHTMLLinks(url)
 # check out the link1 which is the city
 # length 386
+clean_data=function(x){
+    d1=apply(x,2,function(x)gsub("\n","",x))
+    d1=apply(d1,2,function(x)gsub(" ","",x))
+    return(d1)
+}
 for(i in 8:386){
 	city=substring(link1[i],2)
 	#print(city)
@@ -25,6 +30,7 @@ for(i in 8:386){
 	rows=length(table[[1]])
 	d1=data.frame(matrix(unlist(table),nrow=rows))
 	d1=data.frame(rep(date,rows),d1)
+    d1=data.frame(clean_data(d1))
     colnames(d1)=c("date",table_name)
 	#con<-file(paste0(save_dir,city,'/',city,'.txt'),encoding="utf8")
 	con=paste0(city,'/',city,'_',time2,'.txt')
