@@ -1,0 +1,16 @@
+#!/usr/bin/python
+# -*- coding: UTF-8 -*-
+import numpy as np
+import pandas as pd
+class parent:
+    stock_num=0
+    def __init__(self,num):
+        self.num=np.mean(num)
+        print "the mean is :%d" % self.num
+    def getinfo(self):
+        print self.num
+data_file=""
+pd.read_csv()
+p=parent([1,2,3])
+p.getinfo()
+

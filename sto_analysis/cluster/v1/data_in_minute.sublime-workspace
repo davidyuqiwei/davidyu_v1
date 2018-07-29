@@ -1,0 +1,356 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"data_",
+				"data_in_minut"
+			],
+			[
+				"d_",
+				"d_path1"
+			],
+			[
+				"stock",
+				"stock_path"
+			],
+			[
+				"data",
+				"data_save_path"
+			],
+			[
+				"dir",
+				"dir_path"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/G/stock/code/analysis/cluster/v1/data_in_minute.py",
+		"/G/learn/python_jupyter/source.txt",
+		"/C/Users/dmdnh/Desktop/Untitled1.py",
+		"/G/project/python_类/source.txt",
+		"/C/Users/dmdnh/Desktop/新建文本文档 (2).txt",
+		"/G/project/python_类/t1.py",
+		"/G/project/python_test/t1.py",
+		"/G/project/text_analysis/sent_chinese.py",
+		"/G/project/python_类/t2.py",
+		"/C/Users/dmdnh/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/TempState/Downloads/test1.py",
+		"/C/Users/dmdnh/.jupyter/jupyter_notebook_config.py",
+		"/C/Users/dmdnh/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/TempState/Downloads/Untitled.py",
+		"/F/download/Untitled.py",
+		"/C/Users/dmdnh/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/TempState/Downloads/test.py",
+		"/G/stock/code/analysis/trend/.trend_v1.py.un~",
+		"/F/download/wget-20170929124918.sh",
+		"/F/download/wget-20170929124627.sh",
+		"/E/phd_thesis/cmip5_openid.txt",
+		"/F/download/wget-20170928194625.sh",
+		"/F/download/wget-20170928194148.sh",
+		"/F/download/wget-20170929032527.sh",
+		"/F/download/wget-20170928012411.sh",
+		"/F/download/wget-20170929033134.sh",
+		"/F/download/wget-20170929123059.sh",
+		"/F/download/wget-20170928193025.sh",
+		"/C/Users/dmdnh/Desktop/wget-20170928090252.sh",
+		"/C/Users/dmdnh/Desktop/新建文本文档.txt",
+		"/C/Users/dmdnh/Desktop/wget-20170928095917.sh",
+		"/F/download/wget-20170928090252.sh",
+		"/F/download/wget-20170928095917.sh",
+		"/F/download/wget-20170928081133.sh",
+		"/F/download/wget-20170928000334.sh",
+		"/C/Users/dmdnh/Desktop/wget-20170928000334.sh",
+		"/C/Users/dmdnh/Desktop/wget-20170927234637.sh",
+		"/F/download/wget-20170927234637.sh",
+		"/C/Users/dmdnh/Desktop/OmegaOptions.bak",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Program Files (x86)/Common Files/Pulse Secure/JamUI/PulseHelp/ZH-CN/book-access-control-connect-client.html",
+		"/G/lectures/big_data/source.txt",
+		"/C/Users/dmdnh/Desktop/齐笨/股票量价分布/stock_mom.r",
+		"/F/download/wget-20170921010012.sh",
+		"/F/download/wget-20170921004916.sh",
+		"/F/download/wget-20170921052655.sh",
+		"/F/download/wget-20170921092216.sh",
+		"/C/Users/dmdnh/Desktop/wget-20170921052655.sh",
+		"/F/download/wget-20170920202401.sh",
+		"/F/download/wget-20170920202142.sh",
+		"/C/Users/dmdnh/Desktop/wget-20170920202401.sh",
+		"/C/Users/dmdnh/Desktop/teamviewer.txt",
+		"/C/Users/dmdnh/Desktop/齐笨/股票量价分布/上证指数--成交明细--2017_09_14.txt",
+		"/C/Users/dmdnh/Desktop/齐笨/股票量价分布/上证指数--成交明细--2017_09_12.txt",
+		"/I/股票量价分布/stock_mom.r",
+		"/I/股票量价分布/上证指数--成交明细--2016_02_05.txt",
+		"/G/stock/code/analysis/price_volume/price_distribition/v1.r",
+		"/G/stock/code/v2_dowload_data/download_daily_price_volume_v1.py",
+		"/G/stock/code/package1/download_data/download_daily_price_volume_v2.py",
+		"/G/stock/code/analysis/price_volume/p_v_report/v2.py",
+		"/G/stock/code/analysis/cluster/hclust_v1.r",
+		"/G/stock/code/analysis/price_volume/p_v_report/rep1.py",
+		"/G/stock/code/shiny/p1/server.R",
+		"/G/stock/code/shiny/p1/ui.R",
+		"/G/stock/code/shiny/p1/Global.r",
+		"/G/stock/code/shiny/ui.R",
+		"/G/stock/code/shiny/server.R",
+		"/G/project/flask/test/hello.py",
+		"/G/project/flask/test/t2.py",
+		"/G/stock/code/install_packages.r",
+		"/G/project/flask/test/t2.txt",
+		"/G/project/flask/test/quick_start.sh",
+		"/G/stock/data/stock_owner/shenzhen/2017-09-06/000016.txt",
+		"/G/stock/web/t1.html",
+		"/G/stock/data/stock_owner/shenzhen/2017-09-06/000009.txt",
+		"/G/stock/code/v2_dowload_data/download_owner_final.py",
+		"/G/stock/code/package1/download_data/download_owner_final.py",
+		"/G/stock/code/package1/path.py",
+		"/G/stock/data/stock_owner/shenzhen/2017-09-06/000001.txt",
+		"/G/stock/code/download_data/stock_owner/functions.py",
+		"/G/stock/code/v2_dowload_data/__init__.py",
+		"/G/stock/code/path_define.py",
+		"/G/stock/code/package1/__init__.py",
+		"/G/stock/code/v2_dowload_data/old/download_daily_price_volume_t1.py",
+		"/G/stock/code/install_packages.py",
+		"/G/stock/code/create_path.py",
+		"/G/stock/code/analysis/price_volume/change_ratio/change_ratio_increase.r",
+		"/G/stock/code/download_data/daily_price_volume/v1/download_daily_price_volume_single.py",
+		"/G/stock/code/download_data/daily_price_volume/v1/date_v1.py",
+		"/G/stock/code/download_data/daily_price_volume/v2/function.py",
+		"/G/stock/code/download_data/daily_price_volume/v2/download_daily_price_volume_single_stocks.py",
+		"/G/stock/code/download_data/daily_price_volume/v1/download_daily_price_volume.py",
+		"/G/stock/code/download_data/daily_price_volume/v1/download_daily_price_volume_v1.py",
+		"/G/stock/code/download_data/daily_price_volume/v1/download_daily_price_volume_v2.py",
+		"/G/stock/code/package1/download_data/__init__.py",
+		"/G/stock/code/owner_link.r",
+		"/G/stock/code/download_data/stock_owner/download_owner_final.py",
+		"/G/Python27/NEWS.txt",
+		"/G/stock/code/download_data/stock_owner/run.sh",
+		"/G/stock/code/v2_dowload_data/download_daily_price_volume_t1.py",
+		"/G/Python27/README.txt",
+		"/G/Python27/Scripts/easy_install-script.py",
+		"/G/stock/rep1.py",
+		"/G/stock/package1/path.py",
+		"/G/Python27/Lib/site-packages/tushare/fund/__init__.py",
+		"/G/Python27/Lib/site-packages/tushare/__init__.py",
+		"/G/stock/code/__init__.py",
+		"/G/stock/code/path/path.py",
+		"/G/stock/code/path/新建文本文档.txt",
+		"/G/Python27/Lib/site-packages/tushare/stock/billboard.py",
+		"/G/Python27/Lib/site-packages/tushare/util/__init__.py",
+		"/G/Python27/Lib/site-packages/tushare/stock/__init__.py",
+		"/C/Users/dmdnh/Desktop/.vimrc",
+		"/G/documents/learn_v1/deep_learning/logistic_regression.py",
+		"/G/install_packages.py",
+		"/G/stock/create_path.py",
+		"/G/stock/code/analysis/price_volume/price_volume_distribution_v1/price_volume_distribution_v1.r",
+		"/G/documents/lectures/CMU_Advanced Data Analysis/www.stat.cmu.edu/robots.txt",
+		"/G/documents/learn_v1/deep_learning/新建文本文档.txt",
+		"/G/stock/path_define.txt",
+		"/G/stock/code/analysis/price_volume/price_volume_distribution/量价分布.r",
+		"/G/stock/create_file.py",
+		"/G/stock/code/analysis/price_volume/main.r",
+		"/G/stock/code/analysis/price_volume/v1/price_volume_v1.r",
+		"/G/stock/code/analysis/price_volume/price_distribition/ana_buy_sell_ratio.r",
+		"/E/linux_code/OneDrive_1_2017813/hq185_script_all_28_07_2017/disk/hq185/qyu/scripts_all/my_david_work/climate_stk/analysis/change_ratio/change_ratio_increase.r",
+		"/G/stock/code/analysis/price_volume/price_volume_distribution/v1.r",
+		"/E/linux_code/vimrc_27",
+		"/C/cygwin64/home/dmdnh/.vimrc",
+		"/C/cygwin64/home/dmdnh/vimrc_27",
+		"/C/Users/dmdnh/Desktop/v1.py"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 123.0,
+		"where_history":
+		[
+			"G:\\stock\\data\\stock_owner\\shenzhen\\2017-08-14",
+			"G:\\Python27\\Lib\\site-packages\\tushare\\stock",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"pr_day",
+			"pr_",
+			"\\",
+			"hist",
+			"mkdir",
+			"dataset",
+			"21",
+			"22",
+			"17",
+			"18",
+			"09",
+			"18",
+			"\\",
+			"date",
+			"date1",
+			"1",
+			"A",
+			"UBS AG",
+			"株式会",
+			"GUOTAI",
+			"GOLD",
+			"JF",
+			"Deutsche",
+			"淡马锡",
+			"MORGAN",
+			"摩根",
+			"\t",
+			"s/$/",
+			"    ",
+			"HIST_FQ_URL",
+			"_get_index_url",
+			"get_h_data",
+			"h_data",
+			"get_tick_data",
+			"tick",
+			"j",
+			"2000"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"/",
+			"    ",
+			"\\r",
+			"    "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "data_in_minute.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
