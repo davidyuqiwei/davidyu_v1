@@ -12,13 +12,20 @@ link1=getHTMLLinks(url)
 # check out the link1 which is the city
 # length 386
 clean_data=function(x){
-    d1=apply(x,2,function(x)gsub("\n","",x))
-    d1=apply(d1,2,function(x)gsub(" ","",x))
+    if(nrow(x)==1){
+    	d1=data.frame(t(gsub(" ","",unlist(d1))))
+    	d1=data.frame(t(gsub("\n","",unlist(d1))))
+
+    }else{
+    	d1=apply(x,2,function(x)gsub("\n","",x))
+	    d1=apply(d1,2,function(x)gsub(" ","",x))
+    }
     return(d1)
 }
-for(i in 8:386){
+for(i in 93:386){
+	print(i)
 	city=substring(link1[i],2)
-	#print(city)
+	print(city)
 	dir.create(paste0(save_dir,city), showWarnings = TRUE)
 	url2=paste0(url,city)
     doc = htmlParse(url2, encoding = "UTF-8")
