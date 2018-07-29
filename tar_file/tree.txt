@@ -1,0 +1,112 @@
+.
+├── code
+│   ├── analysis
+│   │   ├── cluster
+│   │   │   ├── ann
+│   │   │   │   └── old
+│   │   │   └── v1
+│   │   ├── distribution
+│   │   │   └── old
+│   │   ├── fuquan
+│   │   ├── loop_sec_data
+│   │   ├── owner
+│   │   ├── price_volume
+│   │   │   ├── change_ratio
+│   │   │   ├── p_v_report
+│   │   │   ├── price_distribition
+│   │   │   ├── price_volume_distribution
+│   │   │   └── price_volume_distribution_v1
+│   │   ├── sec_data
+│   │   ├── stk_variation
+│   │   ├── trade
+│   │   ├── trend
+│   │   │   └── old
+│   │   └── volume_stat
+│   ├── download_data
+│   │   ├── basic_info
+│   │   ├── business_report
+│   │   │   └── v1
+│   │   ├── daily_price_volume
+│   │   │   ├── download_single
+│   │   │   └── v1
+│   │   │       ├── old
+│   │   │       └── wangyi
+│   │   ├── financial_report
+│   │   ├── fuquan
+│   │   │   └── combine
+│   │   ├── index_name
+│   │   ├── news_report
+│   │   │   ├── first_page
+│   │   │   ├── html
+│   │   │   │   └── text
+│   │   │   ├── html_all
+│   │   │   └── old
+│   │   ├── owner
+│   │   ├── shanghai_shenzhen_data_from_2000
+│   │   ├── shanghai_shenzhen_data_from_2013
+│   │   ├── shanghai_shenzhen_index
+│   │   │   ├── old
+│   │   │   └── wangyi
+│   │   └── stock_owner
+│   │       └── old
+│   ├── from_web
+│   ├── functions_summary
+│   ├── package_ann
+│   ├── package_downloaddata
+│   ├── package_path_define
+│   ├── package_plot
+│   ├── package_readdata
+│   ├── set_basic
+│   ├── shiny
+│   │   └── p1
+│   ├── test
+│   ├── transform_archive_data
+│   └── v2_dowload_data
+│       └── old
+├── crontab
+├── data
+│   ├── business_report
+│   │   ├── shanghai
+│   │   └── shenzhen
+│   ├── daily_price_volume
+│   │   ├── shanghai
+│   │   │   ├── 601857
+│   │   │   └── 603103
+│   │   └── shenzhen [1327 entries exceeds filelimit, not opening dir]
+│   ├── fuquan
+│   │   ├── shanghai [1309 entries exceeds filelimit, not opening dir]
+│   │   └── shenzhen [1327 entries exceeds filelimit, not opening dir]
+│   ├── fuquan_combine
+│   │   └── shenzhen
+│   ├── news_report
+│   │   ├── old
+│   │   ├── shanghai [1308 entries exceeds filelimit, not opening dir]
+│   │   └── shenzhen [1327 entries exceeds filelimit, not opening dir]
+│   ├── owner
+│   ├── shanghai_shenzhen_data_from_2013
+│   │   ├── shanghai [1308 entries exceeds filelimit, not opening dir]
+│   │   └── shenzhen [1327 entries exceeds filelimit, not opening dir]
+│   ├── shanghai_shenzhen_index
+│   └── stock_owner
+│       ├── shanghai
+│       │   └── 2017-11-06
+│       │       └── text
+│       └── shenzhen
+│           ├── 2017-08-14
+│           ├── 2017-09-06
+│           └── 2017-11-06
+├── data_backup
+│   ├── fuquan
+│   │   └── shenzhen [1327 entries exceeds filelimit, not opening dir]
+│   └── price_volume
+│       └── shenzhen
+├── documents
+├── function
+├── ref
+├── results
+├── shenzhen
+│   └── shenzhen [1237 entries exceeds filelimit, not opening dir]
+├── stock_owner_record
+└── system
+
+109 directories
